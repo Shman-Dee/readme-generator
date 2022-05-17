@@ -1,9 +1,9 @@
-# a
+# readmeTest
   // ![Github license](http://img.shields.io/badge/license-undefined-blue.svg)
-  [![license](https://img.shields.io/badge/license-Apache,MIT,Mozilla-Public,GNU-General-Public,Common-Development-and Distribution,None-blue)](https://shields.io)
+  [![license](https://img.shields.io/badge/license--blue)](https://shields.io)
 
   ## Description 
-  a
+  this is an example of a readme created from the read me generator
   ## Table of Contents
 
   * [Description](#Description)
@@ -15,16 +15,16 @@
   * [Questions](#questions)
   
   ## Description
-  a
+  this is an example of a readme created from the read me generator
 
   ## Installation 
   undefined
 
   ## Usage 
-  a
+  The project is used for creating readme's
 
   ## Contributing 
-  a
+  Email me at shaggyman@abc.com
 
   ## Tests
   undefined
@@ -33,5 +33,5 @@
   This project is license under undefined
 
   ## Questions
-  - Github: [a](https://github.com/a)
+  - Github: [shaggyman](https://github.com/shaggyman)
   - Email: undefined 
