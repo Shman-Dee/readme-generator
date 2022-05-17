@@ -38,8 +38,8 @@ function generateMarkdown(data) {
 
   ## Questions
   - Github: [${data.github}](https://github.com/${data.github})
-  - Email: ${data.email} 
-`;
+  - Email: [${data.email}](${data.email})
+`
 }
 
 module.exports = generateMarkdown;
